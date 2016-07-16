@@ -9,10 +9,12 @@
 
 #### [3. 函数](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/3.md)
 
-#### [4. 面向对象](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/4.md)
+#### [4. 文件](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/4.md)
 
-#### [5. 文件](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/5.md)
+#### [5. 面向对象](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/5.md)
 
 #### [6. 模块](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/6.md)
 
 #### [7. 错误和异常](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/7.md)
+
+#### [8. 高级](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/8.md)
