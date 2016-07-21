@@ -1,3 +1,2 @@
 test
-test1
-test2
+git commit -m "updated: $(date +"%Y-%m-%d %T")"
