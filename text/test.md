@@ -1,6 +1,11 @@
 test
 
-git commit -m "updated: $(date +"%Y-%m-%d %T")"
+function lazygit() {
+    git add .
+    git commit -m "updated: $(date +"%Y-%m-%d %T")"
+    git push
+}
+
 
 lazy
 
