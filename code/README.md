@@ -2,6 +2,8 @@
 
 * [字符的ASCII码](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/ASCII.py)
 
+* [大小写转换](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/word.py)
+
 * [九九乘法表](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/multiplication.py)
 
 * [三角形面积](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/triangle.py)
