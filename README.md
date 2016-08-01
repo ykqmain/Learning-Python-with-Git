@@ -23,6 +23,6 @@
 
 #### 附：
 
-[正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
+* [正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
 
-[Code](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/code)
+* [Code](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/code)
