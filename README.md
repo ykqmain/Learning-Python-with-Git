@@ -19,7 +19,10 @@
 
 #### [8. 高级](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/text/8.md)
 
+<br>
 
-#### 附：[正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
+#### 附：
 
-[Code]()
+[正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
+
+[Code](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/code)
