@@ -1,5 +1,7 @@
 ## Python3 code
 
+* [九九乘法表](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/multiplication.py)
+
 * [三角形面积](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/triangle.py)
 
 * [二次方程](https://github.com/ykqmain/Learning-Python-with-Git/blob/master/code/temp/quadratic.py)
