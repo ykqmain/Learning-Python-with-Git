@@ -25,4 +25,7 @@
 
 * [正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
 
+* [Packages](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/packages)
+
 * [Code](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/code)
+
