@@ -22,3 +22,4 @@ try:
     print(fetcher(x, 2))
 finally:
     print('after fetch')
+
