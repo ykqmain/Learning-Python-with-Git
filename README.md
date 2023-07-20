@@ -23,9 +23,11 @@
 
 #### 附：
 
-* [LearningPython](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/LearningPython)
+* [Learning-Python](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/Learning-Python)
 
-* [正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/re)
+* [Automate-the-Boring-Stuff-with-Python](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/Automate-the-Boring-Stuff-with-Python)
+
+* [正则表达式](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/RegEx)
 
 * [Code](https://github.com/ykqmain/Learning-Python-with-Git/tree/master/code)
 
